@@ -1,11 +1,19 @@
-const Buttons = () => {
-  return (
-    <>
-      <button>Good</button>
-      <button>Neutral</button>
-      <button>Bad</button>
-    </>
-  );
-};
+// import React from 'react';
 
-export default Buttons;
+// const Buttons = ({ onIncrement }) => {
+//   return (
+//     <>
+//       <button type="button" onClick={onIncrement}>
+//         Good
+//       </button>
+//       <button type="button" onClick={onIncrement}>
+//         Neutral
+//       </button>
+//       <button type="button" onClick={onIncrement}>
+//         Bad
+//       </button>
+//     </>
+//   );
+// };
+
+// export default Buttons;
